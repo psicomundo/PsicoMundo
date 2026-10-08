@@ -30,16 +30,6 @@ Creemos firmemente que **la tecnología puede y debe ser una herramienta clave p
 
 ---
 
-## 📊 Estadísticas y Conectividad
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PsicoMundo&show_icons=true&theme=purple-department&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Snake Game GIF" />
