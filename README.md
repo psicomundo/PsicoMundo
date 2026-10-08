@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 ¡Hola, bienvenidx a mi perfil!
+# 🧠 PsicoMundo
 
 > *Tecnología, educación y empatía para la inclusión y comprensión de las neurodivergencias.*
 
@@ -13,9 +13,9 @@
 
 ---
 
-## 🌟 Sobre mí y PsicoMundo
+## 🌟 ¿Qué es PsicoMundo?
 
-Actualmente estoy impulsando **PsicoMundo**, una plataforma web educativa diseñada para visibilizar, informar y derribar mitos sobre las **neurodivergencias** (como el Autismo, el TDAH, la dislexia, entre otras). 
+**PsicoMundo** es una plataforma web educativa diseñada para visibilizar, informar y derribar mitos sobre las **neurodivergencias** (como el Autismo, el TDAH, la dislexia, entre otras). 
 
 Detectamos que en muchas instituciones educativas estas condiciones aún no se comprenden en profundidad, generando situaciones de exclusión. Por medio de este proyecto desarrollado con **HTML, CSS y JavaScript**, buscamos tender un puente entre la información confiable y la comunidad escolar.
 
@@ -51,5 +51,5 @@ Creemos firmemente que **la tecnología puede y debe ser una herramienta clave p
 ---
 
 <div align="center">
-  Hecho con 💜 y empatía. ¡Gracias por visitar mi perfil!
+  Hecho con 💜 y empatía por el equipo de <strong>PsicoMundo</strong>. ¡Gracias por visitar el perfil!
 </div>
