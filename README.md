@@ -35,7 +35,6 @@ Creemos firmemente que **la tecnología puede y debe ser una herramienta clave p
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Snake Game GIF" />
 
 </div>
----
 
 <div align="center">
   Hecho con 💜 y empatía por el equipo de <strong>PsicoMundo</strong>. ¡Gracias por visitar el perfil!
